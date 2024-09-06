@@ -6,4 +6,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of praiseme is to … ironically, praise you!
+The goal of praiseme is (ironically) to praiseyou! (ba-dum-tsk!)
